@@ -1,0 +1,17 @@
+Server side Api:
+
+GET       /users
+POST      /register-users
+GET       /appointments/user_id
+POST      /add-task
+PUT       /edit-task
+DELETE    /delete-task/1
+
+
+
+npx create-react-app app
+npm i bootstrap bootstrap-icon --save
+npm i axios formik yup react-router-dom --save
+npm i cors mongodb express --save
+npm i react-cookie --save
+
